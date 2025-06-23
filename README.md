@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhavesh Gohel
+# 👋 Hi, I'm Bhavesh Sureshbhai Gohel
 
 ![Bhavesh's Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Bhavesh%20Gohel%20GitHub%20Page!&fontSize=40) <!-- (optional: replace with a real banner image if desired) -->
 
